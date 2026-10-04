@@ -1,0 +1,12 @@
+{
+  "name": "陪彤",
+  "short_name": "陪彤",
+  "start_url": "./陪彤_遊戲新版_戰鬥更新.html",
+  "display": "standalone",
+  "background_color": "#dff3ff",
+  "theme_color": "#bfe5fb",
+  "orientation": "any",
+  "icons": [
+    {"src":"./icon.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
